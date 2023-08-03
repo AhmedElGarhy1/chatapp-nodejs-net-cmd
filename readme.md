@@ -10,7 +10,7 @@ As I said the application isn't using any third-party library so the installatio
 
 ```sh
     # Just clone the repo
-    git clone https://github.com/AhmedElGarhy1/chatapp-nodejs-net-cmd
+    git clone https://github.com/AhmedElGarhy1/chatapp-nodejs-net-cmd.git
 
     # Go to the directory
     cd chatapp-nodejs-net-cmd
